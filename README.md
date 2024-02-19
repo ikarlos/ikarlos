@@ -52,4 +52,4 @@
 </div>
 
 ###
-![snake gif](https://github.com/ikarlos/ikarlos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ikarlos/ikarlos/blob/output/snake.svg)
