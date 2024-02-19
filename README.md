@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fahad bhat and I'm a Mern Stack devloper, from kashmir</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
