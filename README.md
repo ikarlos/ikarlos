@@ -1,3 +1,6 @@
+<h2 align="left">Hi 👋! My name is Fahad Bhat and I'm a python/webdeveloper, from kashmir</h2>
+
+
 # 💫 About Me:
 i am currently working on get doctor
 
