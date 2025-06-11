@@ -35,9 +35,7 @@ I'm a passionate **Fullstack Developer** with a strong background in modern web,
 ---
 
 ## 🐍 Snake Commit Heat Map Animation
-
 ![GitHub Snake Light](https://github.com/ikarlos/ikarlos/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 💡 About Me
