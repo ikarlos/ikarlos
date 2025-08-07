@@ -43,9 +43,7 @@ I'm a passionate **Fullstack Developer** with a strong background in modern web,
 - 🔭 Currently working on fullstack and machine learning applications
 - 🌱 Always learning new frameworks, tools, and best practices
 - 💬 Ask me about TypeScript, Python, backend, frontend, machine learning, or DevOps!
-- 📫 How to reach me: [mailtofahadbhat@gmail.com] (replace with your email or LinkedIn)
-
----
+- 📫 How to reach me: [mailtofahadbhat@gmail.com] mailtofahadbhat@gmail.com
 
 ## 🌍 Let's Connect!
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white)](https://github.com/ikarlos)
